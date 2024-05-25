@@ -11,4 +11,4 @@ This project is an AI-powered Gym Tracker that counts bicep curls in real-time u
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Fitness-Tracker.git
+   git clone https://github.com/ameniifi/AI-Fitness-Tracker.git
